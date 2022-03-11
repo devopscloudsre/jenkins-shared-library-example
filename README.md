@@ -125,7 +125,7 @@ Here we just download repository with source code and move code through three st
 				$class: 'GitSCMSource', 
 				credentialsId: '92bb99b8-238f-4f06-8386-b45861c9dd76', 
 				id: '42de5809-9017-4717-90f7-1e55cd53e5f7', 
-				remote: 'git@github.com:aleksei-mailrahulsre/jenkins-shared-library-example.git', 
+				remote: 'git@github.com:mailrahulsre/jenkins-shared-library-example.git', 
 				traits: [[$class: 'jenkins.plugins.git.traits.BranchDiscoveryTrait']]
 			])
 	)
